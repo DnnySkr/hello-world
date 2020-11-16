@@ -1,7 +1,6 @@
 # hello-world
 My first repository on Github.
 
-Me:
-Name: Denny 
-Born in: 1984
+Name: Denny <br>
+Born in: 1984 <br>
 Located in: germany
